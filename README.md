@@ -1,28 +1,7 @@
-# TrabalhoIndividualTeoriaPratica
+# TrabalhoIndividualTeoriaPOO
 
-1. Defina POO:
-	ProgramaÁ„o Orientada a Objeto constitui na divis„o e organizaÁ„o de tarefas utilizando objetos para conectar as informaÁıes entre classes e mÈtodos.
-
-2. Defina Classe:
-	Classes possuem atributos e mÈtodos prÛprios que a definem, podendo se relacionar ou n„o com outras classes a partir de sua tipagem, sendo extremamente semelhante a uma estrutura.
-
-3. Defina mÈtodo:
-	MÈtodos s„o as operaÁıes que ocorrem dentro de uma classe ou estrutura.
-
-4. Defina HeranÁa e dÍ exemplos:
-	HeranÁas s„o classes que possuem um sistema de recebimento de atributos e mÈtodos da classe origin·ria, podendo ser chamada de classe pai ou m„e e classe filha. Por exemplo no cadastro de Pessoa FÌsica e JurÌdica, possuindo caracterÌsticas comuns entre elas como nome e data de nascimento, com isso pode-se ser criado uma classe Pessoa possuindo esses dados comuns sendo ela a classe "m„e".
-
-5. Defina ComposiÁ„o e dÍ exemplos:
-	Enquanto a HeranÁa utiliza um sistema hier·rquico, usando a classe Base inteiramente e sendo sensÌvel nas modificaÁıes da mesma, na composiÁ„o utiliza-se um sistema de "ajuda", como por exemplo um trabalho cecÌproco, a partir de requerimentos prÈ impostos a classe pode ser executada, podendo possuir procedimentos e funÁıes na mesma base sem afetar sua funcionalidade.
-
-6. O que È um par‚metro e qual a diferenÁa para um argumento?
-	Um par‚metro s„o prÈ requisitos para a utilizaÁ„o de um mÈtodo, sendo diferente de um argumento, que È o dado a ser passado para o mÈtodo.
-
-7. O que È sobrecarga de mÈtodos?
-	S„o mÈtodos com par‚metros prÈ estabelecidos, que mesmo se dois mÈtodos possuirem o mesmo nome com par‚metros diferentes os argumentos definir„o o destinat·rio.
-
-8. O que s„o par‚metros opcionais?
-	S„o par‚metros com um dado default, para caso o campo n„o receba os dados do usu·rio o programa execute e funcione.
-
-9. O que s„o par‚metros nomeados?
-	S„o identificadores de destinat·rio para os dados, por exemplo um mÈtodo possui os par‚metros Id, Nome e Idade, e para levar os dados a preencher ester campos vindos de fora da classe pode-ser identificar o campo e o dado a preencher ele ao lado.
+	Programa√ß√£o Orientada a Objeto constitui na divis√£o e organiza√ß√£o de tarefas utilizando objetos para conectar as informa√ß√µes entre classes e m√©todos. Sendo as Classes tipos de refer√™ncia, possuindo atributos e m√©todos pr√≥prios que a definem, podendo se relacionar ou n√£o com outras classes a partir de sua tipagem. J√° os M√©todos s√£o as opera√ß√µes que ocorrem dentro de uma classe ou estrutura.
+	Utilizando as classes se √© poss√≠vel usar Heran√ßas, sendo classes que possuem um sistema de recebimento de atributos e m√©todos da classe origin√°ria, podendo ser chamada de classe pai ou m√£e e classe filha. Por exemplo no cadastro de Pessoa F√≠sica e Jur√≠dica, possuindo caracter√≠sticas comuns entre elas como nome e data de nascimento, com isso pode-se ser criado uma classe Pessoa possuindo esses dados comuns sendo ela a classe "m√£e".
+	Por√©m enquanto a Heran√ßa utiliza um sistema hier√°rquico, usando a classe Base inteiramente e sendo sens√≠vel nas modifica√ß√µes da mesma, a composi√ß√£o utiliza um sistema de "ajuda", como por exemplo um trabalho cec√≠proco, a partir de requerimentos pr√© impostos a classe pode ser executada, podendo possuir procedimentos e fun√ß√µes na mesma base sem afetar sua funcionalidade.
+	Para a troca de dados entre as classes se √© utilizado m√©todos com par√¢metros, eles s√£o pr√© requisitos para a utiliza√ß√£o de um m√©todo, sendo diferente de argumentos, que s√£o os dados a serem passados para o m√©todo. As sobrecargas de m√©todos necessitam de par√¢metros e argumentos para sua funcionalidade, sendo m√©todos com par√¢metros pr√© estabelecidos, que mesmo se dois m√©todos possuirem o mesmo nome com par√¢metros diferentes os argumentos definir√£o o destinat√°rio.
+	H√° par√¢metros opcionais, que s√£o par√¢metros com um dado default, para caso o campo n√£o receba os dados do usu√°rio o programa execute e funcione. E os par√¢metros nomeados, que s√£o identificadores de destinat√°rio para os dados, por exemplo um m√©todo possui os par√¢metros Id, Nome e Idade, e para levar os dados a preencher ester campos vindos de fora da classe pode-ser identificar o campo e o dado a preencher ele ao lado.
